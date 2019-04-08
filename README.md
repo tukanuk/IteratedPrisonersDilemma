@@ -52,17 +52,9 @@ Launch Jupyter Notebook from the project directory
 
 Your web browser should launch and you should be greeted with a browser to allow you to open one of the `.ipynb` files.
 
-Without `dojo` only `Iterated_Prisoners_Dilemma_Project.ipynb` will work properly.
+`Iterated_Prisoners_Dilemma_Project.ipynb` is the basic notebook that has our working tournament. 
 
-### axelrod-dojo
-
-If that all works, next is the `axelrod-dojo` library. In your project directory,
-
-	git clone https://github.com/Axelrod-Python/axelrod-dojo.git dojo
-	cd dojo
-	python3 setup.py develop
-
-Now the `Iterated_Prisoners_Dilemma_Project_GA.ipynb` notebook should have everything it needs to work
+The `Iterated_Prisoners_Dilemma_Project_GA.ipynb` notebook is the work-in-progress genetic algorithm.
 
 Yeah Genetic Algorithms!
 
