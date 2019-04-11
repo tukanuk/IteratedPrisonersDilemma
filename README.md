@@ -1,4 +1,7 @@
-# IteratedPrisonersDilemma
+# IteratedPrisonersDilemma - GitHub
+# https://github.com/tukanuk/IteratedPrisonersDilemma
+
+This project, source code, reports and source material is available at [IteratedPrisonersDilemma](https://github.com/tukanuk/IteratedPrisonersDilemma).
 
 ## Prerequisites
 
